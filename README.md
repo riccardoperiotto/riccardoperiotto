@@ -5,9 +5,9 @@
 - BSc in **Computer Science**, University of Trento (UniTN)
 - MSc in **Autonomous System**, EIT Digital at University of Trento (UniTN) and Kungliga Tekniska Hogskolan (KTH)
 
-Check my [CV](https://github.com/riccardoperiotto/CurriculumVitae) for more information 😉
+Check out my [CV](https://github.com/riccardoperiotto/CurriculumVitae) for more information 😉
 
-## 🚀 Latest Projects  
+## 🚀 Latest Achievements  
 | Name | Category | Description | Link |
 | --- | :---: | --- | --- |
 | <b>MDS</b> | [![](https://img.shields.io/badge/🤖-%20Robotics-informational?style=flat&logoColor=white&color=orange)]() | 🚁 Estimate the location of a fleet of drones via Infrastructure-free Multi-Dimensional Scaling (MDS) | <table><tr><td> [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/riccardoperiotto/UniTN-146040-UnmannedVehicles)</td></tr></table> |
