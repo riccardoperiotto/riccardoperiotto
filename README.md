@@ -1,6 +1,13 @@
 ### Hi there 👋
 #### I am Riccardo Periotto, welcome to my GitHub!
 
+## 🧬 Bio
+Driven by my passion for learning and technology, I approached the ICT world during high school and delved into the subject until I graduated in Computer Science. Between my bachelor's and master's degrees, I worked in the field for a year to better understand which specialization was the most suitable for me.
+
+I have now completed my master's degree in Autonomous Systems, and I know that my primary goal is to develop software solutions for robots, as this will allow me to use the wide range of knowledge I've acquired throughout my education.
+       
+Robotics, control, and deep learning are the subjects I prefer, and I am eager to apply them to my next challenge!
+
 ## 🎓 My background
 - BSc in **Computer Science**, University of Trento (UniTN)
 - MSc in **Autonomous System**, EIT Digital at University of Trento (UniTN) and Kungliga Tekniska Hogskolan (KTH)
