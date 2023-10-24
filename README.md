@@ -8,7 +8,7 @@ I have now completed my master's degree in Autonomous Systems, and I know that m
        
 Robotics, control, and deep learning are the subjects I prefer, and I am eager to apply them to my next challenge!
 
-## 🎓 My background
+## 🎓 Background
 - BSc in **Computer Science**, University of Trento (UniTN)
 - MSc in **Autonomous System**, EIT Digital at University of Trento (UniTN) and Kungliga Tekniska Hogskolan (KTH)
 
