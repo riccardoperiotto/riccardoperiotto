@@ -12,7 +12,7 @@ Robotics, control, and deep learning are the subjects I prefer, and I am eager t
 - BSc in **Computer Science**, University of Trento (UniTN)
 - MSc in **Autonomous System**, EIT Digital at University of Trento (UniTN) and Kungliga Tekniska Hogskolan (KTH)
 
-Check out my [CV]( https://riccardoperiotto.github.io/CurriculumVitae/CV-RiccardoPeriotto.pdf) for more information 😉
+Check out my [CV](https://riccardoperiotto.github.io/CV_RiccardoPeriotto.pdf) for more information 😉
 
 ## 🚀 Latest Achievements  
 | Name | Category | Description | Link |
